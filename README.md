@@ -18,13 +18,7 @@ Downloading the Source Code
 ===========================
 
 Get it from here:
-    http://code.google.com/p/gtkdialog/downloads/list
-
-Get the latest revision from SVN (always stable):
-    svn checkout http://gtkdialog.googlecode.com/svn/trunk/ gtkdialog
-
-Get an older revision from SVN:
-    svn checkout -r432 http://gtkdialog.googlecode.com/svn/trunk/ gtkdialog
+    git clone
 
 Compilation and Installation
 ============================
@@ -65,5 +59,3 @@ Contacting Us
 =============
 
 http://code.google.com/p/gtkdialog/
-
-2013-01-06
