@@ -18,7 +18,7 @@ Downloading the Source Code
 ===========================
 
 Get it from here:
-    git clone
+    git clone https://github.com/alexis-82/gtkdialog.git
 
 Compilation and Installation
 ============================
